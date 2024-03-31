@@ -1,3 +1,5 @@
+# Irumi-Front-React
+배경을 설정하고 시계,간편한 메모, 타이머, 집중타입을 설정할 수있는 앱입니다.
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
